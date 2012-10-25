@@ -1,3 +1,5 @@
+/* GENERAL STYLING */
+
 #quiz {
 	width: 100%;
 }
@@ -9,24 +11,26 @@ header, section {
 }
 
 strong {
-	letter-spacing: 5px;
+	margin: 0 3px;
 }
 
 .questions-list {
 	width: 600px;
 }
 
-/* HIGHTLY YOUR ANSWER TO QUESTION #1 HERE */
+/* ======================================= */
+
+/* ENTER YOUR ANSWER TO QUESTION #1 HERE */
 
 
-/* HIGHTLY YOUR ANSWER TO QUESTION #2 HERE */
+/* ENTER YOUR ANSWER TO QUESTION #2 HERE */
 
 
-/* HIGHTLY YOUR ANSWER TO QUESTION #3 HERE */
+/* ENTER YOUR ANSWER TO QUESTION #3 HERE */
 
 
-/* HIGHTLY YOUR ANSWER TO QUESTION #4 HERE */
+/* ENTER YOUR ANSWER TO QUESTION #4 HERE */
 
 
-/* HIGHTLY YOUR ANSWER TO QUESTION #5 HERE */
+/* ENTER YOUR ANSWER TO QUESTION #5 HERE */
 
